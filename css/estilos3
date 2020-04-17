@@ -68,20 +68,20 @@ li{
 .bio{
 	background:#C8B3FF;
 }
-.his{
-	background:#EDCBDC;
+.hist{
+	background:#EFC9D6;
 }
 .socio{
 	background:#FFADB1;
 }
 .geo{
-	background:;
+	background:#C0F0F4;
 }
 .quim{
 	background:#F0B598;
 }
 .art{
-	background:;
+	background:#EFC9D6;
 }
 a{
 	font-family: "Courier", monospace;
@@ -90,3 +90,4 @@ a{
 	line-height:22px;
 	font-weight:550;
 }
+/*paletas adobe*/
